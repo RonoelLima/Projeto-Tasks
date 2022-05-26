@@ -32,14 +32,7 @@
   <li>React Native</li>
   <li>Node</li>
   <li>Express</li>
-  
-
-<h3>Protótipo da Interface</h3>
-
-  <img  src='./images/TeladeCadastro.png'>
-  <img  src='./images/TeladeLogin.png'>
-  <img  src='./images/TeladeCalendario.png'>
-  <img  src='./images/TeladeListadasTarefas.png'>
+ 
 
 <h3>Pontos para Correção</h3>
 
