@@ -36,10 +36,10 @@
 
 <h3>Protótipo da Interface</h3>
 
-  <img  src='./images/Tela-de-Cadastro.png'>
-  <img  src='./images/Tela-de-Login.png'>
-  <img  src='./images/Tela-de-Calendário.png'>
-  <img  src='./images/Tela-de-Lista-das-Tarefas.png'>
+  <img  src='./images/TeladeCadastro.png'>
+  <img  src='./images/TeladeLogin.png'>
+  <img  src='./images/TeladeCalendario.png'>
+  <img  src='./images/TeladeListadasTarefas.png'>
 
 <h3>Pontos para Correção</h3>
 
