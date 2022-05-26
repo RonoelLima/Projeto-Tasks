@@ -19,7 +19,7 @@
   <li>moment;</li>
   <li>react-navigation/drawer;</li>
   <li>Axios;</li>
-  <li>Android Studio</li>
+  <li>Android Studio;</li>
   <li>AsyncStorage</li>
 
 <h2> Eventos </h2>
@@ -28,10 +28,10 @@
 
 <h2>3. Tecnologias Utilizadas </h2>
 
-  <li>React</li>
-  <li>React Native</li>
-  <li>Node</li>
-  <li>Express</li>
+  <li>React;</li>
+  <li>React Native;</li>
+  <li>Node;</li>
+  <li>Express;</li>
  
 
 <h3>Pontos para Correção</h3>
